@@ -8,9 +8,9 @@ import React from "react";
 export default function() {
   const [chains, setChains] = React.useState<Chain[]>([
     {
-      name: "Popcateum",
+      name: "Triangular",
       network: "mainnet",
-      rpc: ["https://dataseed.popcateum.org"],
+      rpc: ["https://subnets.avacloud.io/a2df7ca2-e4fe-43df-af2a-c4e84feb64ad"],
     },
   ]);
 
