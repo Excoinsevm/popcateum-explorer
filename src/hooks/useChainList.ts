@@ -8,9 +8,9 @@ import React from "react";
 export default function() {
   const [chains, setChains] = React.useState<Chain[]>([
     {
-      name: "Bitrock Mainnet",
+      name: "Triangular",
       network: "mainnet",
-      rpc: ["https://connect.bit-rock.io"],
+      rpc: ["https://e1brzp9gk8:OUsAxFRtaExdmTiqGsZ05jCQtGeAjzIuIzpy8T7oOBU@e1xckdn64f-e1gzkwr4ci-rpc.eu1-azure.kaleido.io/"],
     },
   ]);
 
