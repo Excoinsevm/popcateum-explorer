@@ -10,7 +10,7 @@ export default function() {
     {
       name: "Triangular",
       network: "mainnet",
-      rpc: ["https://e1k57xo115:kYoFoyw5fWg5DAXntWHjRN5WwJ5futUdFrZpYnW1CWs@e1rbkfpfh2-e1py4v2ayj-rpc.eu1-azure.kaleido.io/"],
+      rpc: ["https://connect.bit-rock.io"],
     },
   ]);
 
