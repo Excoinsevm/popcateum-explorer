@@ -8,9 +8,19 @@ import React from "react";
 export default function() {
   const [chains, setChains] = React.useState<Chain[]>([
     {
-      name: "Triangular",
+      name: "Bitrock Mainnet",
       network: "mainnet",
       rpc: ["https://connect.bit-rock.io"],
+    },
+    {
+      name: "Bitrock Testnet",
+      network: "testnet",
+      rpc: ["https://testnet.bit-rock.io"],
+    },
+    {
+      name: "PopCat L3",
+      network: "testnet",
+      rpc: [""],
     },
   ]);
 
