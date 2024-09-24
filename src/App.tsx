@@ -214,7 +214,7 @@ function App(props: any) {
                     </Grid>
                     <Grid>
                       <Typography color="textSecondary" variant="h6">
-                        {t("Popcateum Explorer")}
+                        {t("Popcat Explorer")}
                       </Typography>
                     </Grid>
                   </Grid>
@@ -262,7 +262,7 @@ function App(props: any) {
                 <Tooltip title={t("JSON-RPC API Documentation") as string}>
                   <IconButton
                     onClick={() =>
-                      window.open("https://playground.open-rpc.org/?schemaUrl=https://raw.githubusercontent.com/etclabscore/ethereum-json-rpc-specification/master/openrpc.json") //tslint:disable-line
+                      window.open("https://t.me/PopCatRock") //tslint:disable-line
                     }>
                     <NotesIcon />
                   </IconButton>
@@ -270,7 +270,7 @@ function App(props: any) {
                 <Tooltip title={t("Expedition Github") as string}>
                   <IconButton
                     onClick={() =>
-                      window.open("https://github.com/popcateum/popcateum-explorer")
+                      window.open("https://na")
                     }>
                     <CodeIcon />
                   </IconButton>
