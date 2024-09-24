@@ -10,7 +10,7 @@ export default function() {
     {
       name: "Triangular",
       network: "mainnet",
-      rpc: ["https://e1wg6aqvfv:7dMcVS7jQP1wvUqF6K1r7YHtN7MC9dMq7WqZ0N2oo6Y@e1w1t9l1z0-e1yewt80n3-rpc.eu1-azure.kaleido.io/"],
+      rpc: ["https://e1k57xo115:kYoFoyw5fWg5DAXntWHjRN5WwJ5futUdFrZpYnW1CWs@e1rbkfpfh2-e1py4v2ayj-rpc.eu1-azure.kaleido.io/"],
     },
   ]);
 
